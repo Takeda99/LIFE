@@ -2,7 +2,7 @@
     <ul class="nav justify-content-between p-3">
         <li class="nav-item">
             <a href="{{ route('user_top') }}">
-                <i class="bi bi-bell" style="font-size:30px;"></i>
+                <i class="bi bi-house" style="font-size:30px;"></i>
             </a>
         </li>
         <li class="nav-item">
@@ -17,7 +17,7 @@
         </li>
         <li class="nav-item">
             <a href="{{ route('user_top') }}">
-                <i class="bi bi-gear" style="font-size:30px;"></i>
+                <i class="bi bi-person" style="font-size:30px;"></i>
             </a>
         </li>
     </ul>
